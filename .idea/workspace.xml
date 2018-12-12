@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ccbf59-5702-4035-841d-0c7714cd8c1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +36,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1387" />
+          <entry key="py" value="1380" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="1379" />
+          <entry key="Python" value="1372" />
           <entry key="RegExp" value="8" />
         </counts>
       </usages-collector>
@@ -51,18 +51,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            <state relative-caret-position="480">
+              <caret line="35" column="48" selection-end-line="49" selection-end-column="45" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1544598148154" expanded="true" signature="159:164" ph="..." />
-                <marker date="1544598148154" expanded="true" signature="159:365" ph="..." />
-                <marker date="1544598148154" expanded="true" signature="397:402" ph="..." />
-                <marker date="1544598148154" expanded="true" signature="1003:1150" ph="..." />
-                <marker date="1544598148154" expanded="true" signature="1167:1491" ph="..." />
+                <marker date="1544594926859" expanded="true" signature="159:164" ph="..." />
+                <marker date="1544594926859" expanded="true" signature="159:365" ph="..." />
+                <marker date="1544594926859" expanded="true" signature="397:402" ph="..." />
+                <marker date="1544594926859" expanded="true" signature="1003:1150" ph="..." />
+                <marker date="1544594926859" expanded="true" signature="1167:1491" ph="..." />
               </folding>
             </state>
           </provider>
@@ -86,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/explanation.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -112,8 +112,8 @@
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/maoyantop.txt" />
-        <option value="$PROJECT_DIR$/explanation.txt" />
         <option value="$PROJECT_DIR$/spider.py" />
+        <option value="$PROJECT_DIR$/explanation.txt" />
       </list>
     </option>
   </component>
@@ -130,7 +130,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-28" />
     <option name="y" value="50" />
     <option name="width" value="1369" />
@@ -261,7 +261,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -327,6 +327,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="48" selection-end-line="49" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1544594926859" expanded="true" signature="159:164" ph="..." />
+            <marker date="1544594926859" expanded="true" signature="159:365" ph="..." />
+            <marker date="1544594926859" expanded="true" signature="397:402" ph="..." />
+            <marker date="1544594926859" expanded="true" signature="1003:1150" ph="..." />
+            <marker date="1544594926859" expanded="true" signature="1167:1491" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/maoyantop.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -341,21 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1544598148154" expanded="true" signature="159:164" ph="..." />
-            <marker date="1544598148154" expanded="true" signature="159:365" ph="..." />
-            <marker date="1544598148154" expanded="true" signature="397:402" ph="..." />
-            <marker date="1544598148154" expanded="true" signature="1003:1150" ph="..." />
-            <marker date="1544598148154" expanded="true" signature="1167:1491" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
