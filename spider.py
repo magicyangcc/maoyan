@@ -46,5 +46,6 @@ def main(offset):
         write_one_page(item)
 
 if __name__ == "__main__":
+    #创建连接池
     pool = Pool()
     pool.map(main, [i*10 for i in range(10)])
